@@ -1,0 +1,15 @@
+.about-comments {
+	
+}
+
+
+
+.about-comments__delete {
+	cursor: pointer;
+	color: red;
+
+	&:hover {
+		
+		text-transform: uppercase;
+	} 
+}
